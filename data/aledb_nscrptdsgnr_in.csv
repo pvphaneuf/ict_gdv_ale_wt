@@ -1,0 +1,513 @@
+INSCRIPTA_EditType,INSCRIPTA_TargetType,INSCRIPTA_TargetName,INSCRIPTA_CoordinateType,INSCRIPTA_PositionType,INSCRIPTA_PositionValue,INSCRIPTA_SaturationReplacementType,INSCRIPTA_Control,INSCRIPTA_NumberOfCoordinatesToDelete,INSCRIPTA_InsertionSequence,INSCRIPTA_Comment,AA ref seq,AA seq change,effect,source,Grantham score,Grantham category
+Deletion,Specific CDS,nagC,Nucleotide,Specific Position,214,,,1,,,,,truncation,ALEdb,,
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,856,,,,T,,K,*,truncation,ALEdb,,
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,182,,,,A,,G,E,nonsynonymous,ALEdb,98.0,moderately conservative
+Substitution,Specific CDS,nagC,Nucleotide,Specific Position,790,,,,A,,C,S,nonsynonymous,ALEdb,112.0,moderately radical
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,832,,,,T,,T,S,nonsynonymous,ALEdb,58.0,moderately conservative
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,325,,,,T,,R,C,nonsynonymous,ALEdb,180.0,radical
+Substitution,Specific CDS,rpoA,Nucleotide,Specific Position,698,,,,G,,D,G,nonsynonymous,ALEdb,94.0,moderately conservative
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,304,,,,T,,R,C,nonsynonymous,ALEdb,180.0,radical
+Substitution,Specific CDS,mreB,Nucleotide,Specific Position,812,,,,G,,V,G,nonsynonymous,ALEdb,109.0,moderately radical
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,107,,,,G,,S,C,nonsynonymous,ALEdb,112.0,moderately radical
+Substitution,Specific CDS,nadR,Nucleotide,Specific Position,881,,,,G,,Y,C,nonsynonymous,ALEdb,194.0,radical
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,1232,,,,G,,L,R,nonsynonymous,ALEdb,102.0,moderately radical
+Substitution,Specific CDS,relA,Nucleotide,Specific Position,1248,,,,G,,V,V,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,1375,,,,C,,N,H,nonsynonymous,ALEdb,68.0,moderately conservative
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,459,,,,G,,S,S,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,1045,,,,C,,I,L,nonsynonymous,ALEdb,5.0,conservative
+Substitution,Specific CDS,nadR,Nucleotide,Specific Position,800,,,,C,,Y,S,nonsynonymous,ALEdb,144.0,moderately radical
+Substitution,Specific CDS,mreB,Nucleotide,Specific Position,1037,,,,C,,E,A,nonsynonymous,ALEdb,107.0,moderately radical
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,1114,,,,A,,P,T,nonsynonymous,ALEdb,38.0,conservative
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,250,,,,T,,S,C,nonsynonymous,ALEdb,112.0,moderately radical
+Substitution,Specific CDS,rpoA,Nucleotide,Specific Position,962,,,,A,,W,*,truncation,ALEdb,,
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,262,,,,A,,R,S,nonsynonymous,ALEdb,110.0,moderately radical
+Substitution,Specific CDS,nagC,Nucleotide,Specific Position,737,,,,T,,G,V,nonsynonymous,ALEdb,109.0,moderately radical
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,758,,,,A,,V,E,nonsynonymous,ALEdb,121.0,moderately radical
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,259,,,,A,,R,S,nonsynonymous,ALEdb,110.0,moderately radical
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,1632,,,,A,,G,G,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,rpoA,Nucleotide,Specific Position,106,,,,T,,G,C,nonsynonymous,ALEdb,159.0,radical
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,544,,,,A,,L,I,nonsynonymous,ALEdb,5.0,conservative
+Substitution,Specific CDS,nadR,Nucleotide,Specific Position,344,,,,A,,S,*,truncation,ALEdb,,
+Substitution,Specific CDS,rob,Nucleotide,Specific Position,320,,,,A,,P,H,nonsynonymous,ALEdb,77.0,moderately conservative
+Substitution,Specific CDS,proV,Nucleotide,Specific Position,430,,,,C,,K,Q,nonsynonymous,ALEdb,53.0,moderately conservative
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,775,,,,A,,A,T,nonsynonymous,ALEdb,58.0,moderately conservative
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,952,,,,A,,G,S,nonsynonymous,ALEdb,56.0,moderately conservative
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,1309,,,,A,,A,T,nonsynonymous,ALEdb,58.0,moderately conservative
+Deletion,Specific CDS,purT,Nucleotide,Specific Position,492,,,1,,,,,truncation,ALEdb,,
+Substitution,Specific CDS,kgtP,Nucleotide,Specific Position,31,,,,G,,K,E,nonsynonymous,ALEdb,56.0,moderately conservative
+Substitution,Specific CDS,relA,Nucleotide,Specific Position,2235,,,,A,,*,*,synonymous,ALEdb,,
+Substitution,Specific CDS,mreB,Nucleotide,Specific Position,315,,,,C,,R,R,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,purT,Nucleotide,Specific Position,73,,,,G,,K,E,nonsynonymous,ALEdb,56.0,moderately conservative
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,653,,,,C,,I,T,nonsynonymous,ALEdb,89.0,moderately conservative
+Substitution,Specific CDS,mreB,Nucleotide,Specific Position,537,,,,T,,N,N,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,ybjL,Nucleotide,Specific Position,71,,,,A,,G,E,nonsynonymous,ALEdb,98.0,moderately conservative
+Substitution,Specific CDS,relA,Nucleotide,Specific Position,145,,,,T,,H,Y,nonsynonymous,ALEdb,83.0,moderately conservative
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,460,,,,A,,E,K,nonsynonymous,ALEdb,56.0,moderately conservative
+Substitution,Specific CDS,purT,Nucleotide,Specific Position,16,,,,G,,T,A,nonsynonymous,ALEdb,58.0,moderately conservative
+Substitution,Specific CDS,nagC,Nucleotide,Specific Position,527,,,,A,,W,*,truncation,ALEdb,,
+Substitution,Specific CDS,sapD,Nucleotide,Specific Position,771,,,,A,,A,A,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,purT,Nucleotide,Specific Position,1084,,,,T,,R,C,nonsynonymous,ALEdb,180.0,radical
+Substitution,Specific CDS,nagC,Nucleotide,Specific Position,1201,,,,T,,Q,*,truncation,ALEdb,,
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,1379,,,,A,,G,D,nonsynonymous,ALEdb,94.0,moderately conservative
+Substitution,Specific CDS,rpoA,Nucleotide,Specific Position,216,,,,G,,E,E,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,rob,Nucleotide,Specific Position,752,,,,C,,L,P,nonsynonymous,ALEdb,98.0,moderately conservative
+Substitution,Specific CDS,purT,Nucleotide,Specific Position,493,,,,T,,Q,*,truncation,ALEdb,,
+Substitution,Specific CDS,purT,Nucleotide,Specific Position,905,,,,C,,L,P,nonsynonymous,ALEdb,98.0,moderately conservative
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,455,,,,C,,L,P,nonsynonymous,ALEdb,98.0,moderately conservative
+Substitution,Specific CDS,rob,Nucleotide,Specific Position,779,,,,G,,D,G,nonsynonymous,ALEdb,94.0,moderately conservative
+Insertion,Specific CDS,purT,Nucleotide,Specific Position,1096,,,,G,,,,truncation,ALEdb,,
+Substitution,Specific CDS,mreB,Nucleotide,Specific Position,995,,,,T,,A,V,nonsynonymous,ALEdb,64.0,moderately conservative
+Substitution,Specific CDS,mreB,Nucleotide,Specific Position,413,,,,C,,V,A,nonsynonymous,ALEdb,64.0,moderately conservative
+Substitution,Specific CDS,purT,Nucleotide,Specific Position,61,,,,A,,G,S,nonsynonymous,ALEdb,56.0,moderately conservative
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,1053,,,,T,,K,N,nonsynonymous,ALEdb,94.0,moderately conservative
+Substitution,Specific CDS,purT,Nucleotide,Specific Position,245,,,,G,,E,G,nonsynonymous,ALEdb,98.0,moderately conservative
+Deletion,Specific CDS,relA,Nucleotide,Specific Position,68,,,1,,,,,truncation,ALEdb,,
+Substitution,Specific CDS,sapC,Nucleotide,Specific Position,231,,,,T,,F,F,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,sapD,Nucleotide,Specific Position,841,,,,A,,A,T,nonsynonymous,ALEdb,58.0,moderately conservative
+Substitution,Specific CDS,rob,Nucleotide,Specific Position,730,,,,C,,Y,H,nonsynonymous,ALEdb,83.0,moderately conservative
+Substitution,Specific CDS,ybjL,Nucleotide,Specific Position,605,,,,C,,L,P,nonsynonymous,ALEdb,98.0,moderately conservative
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,1250,,,,T,,K,I,nonsynonymous,ALEdb,102.0,moderately radical
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,1144,,,,T,,I,F,nonsynonymous,ALEdb,21.0,conservative
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,1636,,,,A,,A,T,nonsynonymous,ALEdb,58.0,moderately conservative
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,1253,,,,T,,R,L,nonsynonymous,ALEdb,102.0,moderately radical
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,326,,,,A,,R,H,nonsynonymous,ALEdb,29.0,conservative
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,186,,,,G,,F,L,nonsynonymous,ALEdb,22.0,conservative
+Insertion,Specific CDS,rho,Nucleotide,Specific Position,303,,,,ATT,,,,other,ALEdb,,
+Substitution,Specific CDS,nagC,Nucleotide,Specific Position,805,,,,A,,A,T,nonsynonymous,ALEdb,58.0,moderately conservative
+Insertion,Specific CDS,nagC,Nucleotide,Specific Position,134,,,,G,,,,truncation,ALEdb,,
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,1411,,,,C,,*,Q,other,ALEdb,,
+Substitution,Specific CDS,rpoA,Nucleotide,Specific Position,112,,,,G,,T,A,nonsynonymous,ALEdb,58.0,moderately conservative
+Deletion,Specific CDS,pykF,Nucleotide,Specific Position,1213,,,1,,,,,truncation,ALEdb,,
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,662,,,,C,,I,T,nonsynonymous,ALEdb,89.0,moderately conservative
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,677,,,,A,,G,D,nonsynonymous,ALEdb,94.0,moderately conservative
+Substitution,Specific CDS,rpoA,Nucleotide,Specific Position,917,,,,C,,V,A,nonsynonymous,ALEdb,64.0,moderately conservative
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,767,,,,C,,V,A,nonsynonymous,ALEdb,64.0,moderately conservative
+Substitution,Specific CDS,relA,Nucleotide,Specific Position,191,,,,G,,E,G,nonsynonymous,ALEdb,98.0,moderately conservative
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,1284,,,,T,,R,R,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,rob,Nucleotide,Specific Position,12,,,,T,,A,A,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,511,,,,A,,A,T,nonsynonymous,ALEdb,58.0,moderately conservative
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,850,,,,C,,Y,H,nonsynonymous,ALEdb,83.0,moderately conservative
+Deletion,Specific CDS,pykF,Nucleotide,Specific Position,519,,,1,,,,,truncation,ALEdb,,
+Substitution,Specific CDS,nadR,Nucleotide,Specific Position,175,,,,C,,F,L,nonsynonymous,ALEdb,22.0,conservative
+Substitution,Specific CDS,sapD,Nucleotide,Specific Position,382,,,,T,,R,C,nonsynonymous,ALEdb,180.0,radical
+Deletion,Specific CDS,pykF,Nucleotide,Specific Position,798,,,1,,,,,truncation,ALEdb,,
+Substitution,Specific CDS,sapD,Nucleotide,Specific Position,878,,,,A,,R,H,nonsynonymous,ALEdb,29.0,conservative
+Substitution,Specific CDS,rpoA,Nucleotide,Specific Position,883,,,,T,,L,F,nonsynonymous,ALEdb,22.0,conservative
+Substitution,Specific CDS,sapD,Nucleotide,Specific Position,639,,,,T,,L,F,nonsynonymous,ALEdb,22.0,conservative
+Substitution,Specific CDS,sapB,Nucleotide,Specific Position,284,,,,C,,V,A,nonsynonymous,ALEdb,64.0,moderately conservative
+Substitution,Specific CDS,sapB,Nucleotide,Specific Position,283,,,,A,,V,M,nonsynonymous,ALEdb,21.0,conservative
+Substitution,Specific CDS,sapC,Nucleotide,Specific Position,299,,,,T,,G,V,nonsynonymous,ALEdb,109.0,moderately radical
+Substitution,Specific CDS,sapC,Nucleotide,Specific Position,296,,,,C,,V,A,nonsynonymous,ALEdb,64.0,moderately conservative
+Substitution,Specific CDS,sapC,Nucleotide,Specific Position,295,,,,A,,V,M,nonsynonymous,ALEdb,21.0,conservative
+Substitution,Specific CDS,mreB,Nucleotide,Specific Position,242,,,,A,,I,N,nonsynonymous,ALEdb,149.0,moderately radical
+Substitution,Specific CDS,mreB,Nucleotide,Specific Position,239,,,,A,,V,D,nonsynonymous,ALEdb,152.0,radical
+Substitution,Specific CDS,sapF,Nucleotide,Specific Position,473,,,,A,,R,H,nonsynonymous,ALEdb,29.0,conservative
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,352,,,,T,,E,*,truncation,ALEdb,,
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,353,,,,T,,E,V,nonsynonymous,ALEdb,121.0,moderately radical
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,354,,,,C,,E,D,nonsynonymous,ALEdb,45.0,conservative
+Substitution,Specific CDS,nanK,Nucleotide,Specific Position,548,,,,A,,I,N,nonsynonymous,ALEdb,149.0,moderately radical
+Substitution,Specific CDS,nanK,Nucleotide,Specific Position,544,,,,T,,G,C,nonsynonymous,ALEdb,159.0,radical
+Substitution,Specific CDS,mreB,Nucleotide,Specific Position,233,,,,T,,D,V,nonsynonymous,ALEdb,152.0,radical
+Substitution,Specific CDS,sapC,Nucleotide,Specific Position,292,,,,C,,T,P,nonsynonymous,ALEdb,38.0,conservative
+Substitution,Specific CDS,nagC,Nucleotide,Specific Position,1207,,,,A,,L,M,nonsynonymous,ALEdb,15.0,conservative
+Substitution,Specific CDS,nagC,Nucleotide,Specific Position,1206,,,,A,,H,Q,nonsynonymous,ALEdb,24.0,conservative
+Substitution,Specific CDS,sapB,Nucleotide,Specific Position,566,,,,A,,T,N,nonsynonymous,ALEdb,65.0,moderately conservative
+Substitution,Specific CDS,nagC,Nucleotide,Specific Position,465,,,,G,,P,P,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,kgtP,Nucleotide,Specific Position,932,,,,A,,S,*,truncation,ALEdb,,
+Deletion,Specific CDS,kgtP,Nucleotide,Specific Position,117,,,1,,,,,truncation,ALEdb,,
+Insertion,Specific CDS,proV,Nucleotide,Specific Position,352,,,,A,,,,truncation,ALEdb,,
+Deletion,Specific CDS,proV,Nucleotide,Specific Position,50,,,13,,,,,truncation,ALEdb,,
+Substitution,Specific CDS,proV,Nucleotide,Specific Position,122,,,,A,,S,*,truncation,ALEdb,,
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,1724,,,,T,,R,L,nonsynonymous,ALEdb,102.0,moderately radical
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,305,,,,A,,R,H,nonsynonymous,ALEdb,29.0,conservative
+Deletion,Specific CDS,nadR,Nucleotide,Specific Position,917,,,14,,,,,truncation,ALEdb,,
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,295,,,,T,,G,W,nonsynonymous,ALEdb,184.0,radical
+Substitution,Specific CDS,nadR,Nucleotide,Specific Position,523,,,,T,,I,F,nonsynonymous,ALEdb,21.0,conservative
+Substitution,Specific CDS,nadR,Nucleotide,Specific Position,392,,,,G,,F,C,nonsynonymous,ALEdb,205.0,radical
+Substitution,Specific CDS,nadR,Nucleotide,Specific Position,460,,,,A,,W,R,nonsynonymous,ALEdb,101.0,moderately radical
+Substitution,Specific CDS,metJ,Nucleotide,Specific Position,37,,,,A,,A,T,nonsynonymous,ALEdb,58.0,moderately conservative
+Substitution,Specific CDS,sapA,Nucleotide,Specific Position,562,,,,A,,A,T,nonsynonymous,ALEdb,58.0,moderately conservative
+Substitution,Specific CDS,manY,Nucleotide,Specific Position,490,,,,G,,T,A,nonsynonymous,ALEdb,58.0,moderately conservative
+Substitution,Specific CDS,metJ,Nucleotide,Specific Position,199,,,,G,,T,A,nonsynonymous,ALEdb,58.0,moderately conservative
+Substitution,Specific CDS,metJ,Nucleotide,Specific Position,134,,,,G,,Q,R,nonsynonymous,ALEdb,43.0,conservative
+Substitution,Specific CDS,relA,Nucleotide,Specific Position,1226,,,,C,,F,S,nonsynonymous,ALEdb,155.0,radical
+Substitution,Specific CDS,metJ,Nucleotide,Specific Position,44,,,,T,,H,L,nonsynonymous,ALEdb,99.0,moderately conservative
+Substitution,Specific CDS,metJ,Nucleotide,Specific Position,137,,,,C,,V,A,nonsynonymous,ALEdb,64.0,moderately conservative
+Substitution,Specific CDS,nadR,Nucleotide,Specific Position,529,,,,C,,T,P,nonsynonymous,ALEdb,38.0,conservative
+Substitution,Specific CDS,rpoA,Nucleotide,Specific Position,652,,,,T,,R,C,nonsynonymous,ALEdb,180.0,radical
+Deletion,Specific CDS,proV,Nucleotide,Specific Position,47,,,1,,,,,truncation,ALEdb,,
+Deletion,Specific CDS,marC,Nucleotide,Specific Position,103,,,1,,,,,truncation,ALEdb,,
+Insertion,Specific CDS,rob,Nucleotide,Specific Position,141,,,,G,,,,truncation,ALEdb,,
+Insertion,Specific CDS,rob,Nucleotide,Specific Position,308,,,,T,,,,truncation,ALEdb,,
+Substitution,Specific CDS,sapF,Nucleotide,Specific Position,413,,,,A,,G,E,nonsynonymous,ALEdb,98.0,moderately conservative
+Substitution,Specific CDS,sapC,Nucleotide,Specific Position,769,,,,A,,E,K,nonsynonymous,ALEdb,56.0,moderately conservative
+Deletion,Specific CDS,nadR,Nucleotide,Specific Position,329,,,7,,,,,truncation,ALEdb,,
+Substitution,Specific CDS,nadR,Nucleotide,Specific Position,667,,,,T,,P,S,nonsynonymous,ALEdb,74.0,moderately conservative
+Deletion,Specific CDS,kgtP,Nucleotide,Specific Position,1010,,,1,,,,,truncation,ALEdb,,
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,466,,,,T,,D,Y,nonsynonymous,ALEdb,160.0,radical
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,1178,,,,A,,P,Q,nonsynonymous,ALEdb,76.0,moderately conservative
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,723,,,,A,,M,I,nonsynonymous,ALEdb,10.0,conservative
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,673,,,,A,,E,K,nonsynonymous,ALEdb,56.0,moderately conservative
+Substitution,Specific CDS,relA,Nucleotide,Specific Position,1358,,,,G,,Y,C,nonsynonymous,ALEdb,194.0,radical
+Substitution,Specific CDS,rob,Nucleotide,Specific Position,209,,,,T,,A,V,nonsynonymous,ALEdb,64.0,moderately conservative
+Substitution,Specific CDS,nadR,Nucleotide,Specific Position,1223,,,,G,,E,G,nonsynonymous,ALEdb,98.0,moderately conservative
+Substitution,Specific CDS,nadR,Nucleotide,Specific Position,1128,,,,T,,L,L,synonymous,ALEdb,0.0,conservative
+Insertion,Specific CDS,relA,Nucleotide,Specific Position,1745,,,,T,,,,truncation,ALEdb,,
+Substitution,Specific CDS,relA,Nucleotide,Specific Position,1436,,,,G,,N,S,nonsynonymous,ALEdb,46.0,conservative
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,324,,,,G,,E,E,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,proV,Nucleotide,Specific Position,267,,,,C,,G,G,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,336,,,,C,,G,G,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,relA,Nucleotide,Specific Position,1935,,,,A,,R,R,synonymous,ALEdb,0.0,conservative
+Insertion,Specific CDS,nadR,Nucleotide,Specific Position,168,,,,G,,,,truncation,ALEdb,,
+Substitution,Specific CDS,rob,Nucleotide,Specific Position,735,,,,G,,G,G,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,manY,Nucleotide,Specific Position,10,,,,G,,T,A,nonsynonymous,ALEdb,58.0,moderately conservative
+Substitution,Specific CDS,ybjL,Nucleotide,Specific Position,944,,,,C,,V,A,nonsynonymous,ALEdb,64.0,moderately conservative
+Substitution,Specific CDS,nadR,Nucleotide,Specific Position,606,,,,A,,T,T,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,sapD,Nucleotide,Specific Position,974,,,,C,,L,P,nonsynonymous,ALEdb,98.0,moderately conservative
+Deletion,Specific CDS,sapD,Nucleotide,Specific Position,882,,,1,,,,,truncation,ALEdb,,
+Substitution,Specific CDS,ybjL,Nucleotide,Specific Position,988,,,,C,,F,L,nonsynonymous,ALEdb,22.0,conservative
+Substitution,Specific CDS,proV,Nucleotide,Specific Position,951,,,,C,,G,G,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,rpoA,Nucleotide,Specific Position,347,,,,T,,T,I,nonsynonymous,ALEdb,89.0,moderately conservative
+Substitution,Specific CDS,nadR,Nucleotide,Specific Position,877,,,,T,,Q,*,truncation,ALEdb,,
+Substitution,Specific CDS,marC,Nucleotide,Specific Position,385,,,,G,,T,A,nonsynonymous,ALEdb,58.0,moderately conservative
+Substitution,Specific CDS,nadR,Nucleotide,Specific Position,778,,,,A,,A,T,nonsynonymous,ALEdb,58.0,moderately conservative
+Substitution,Specific CDS,sapB,Nucleotide,Specific Position,628,,,,C,,Y,H,nonsynonymous,ALEdb,83.0,moderately conservative
+Substitution,Specific CDS,manY,Nucleotide,Specific Position,342,,,,C,,R,R,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,kgtP,Nucleotide,Specific Position,26,,,,G,,D,G,nonsynonymous,ALEdb,94.0,moderately conservative
+Substitution,Specific CDS,nagC,Nucleotide,Specific Position,914,,,,G,,N,S,nonsynonymous,ALEdb,46.0,conservative
+Substitution,Specific CDS,marC,Nucleotide,Specific Position,465,,,,G,,V,V,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,sapC,Nucleotide,Specific Position,409,,,,G,,T,A,nonsynonymous,ALEdb,58.0,moderately conservative
+Substitution,Specific CDS,sapC,Nucleotide,Specific Position,839,,,,C,,V,A,nonsynonymous,ALEdb,64.0,moderately conservative
+Substitution,Specific CDS,nagC,Nucleotide,Specific Position,219,,,,T,,G,G,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,kgtP,Nucleotide,Specific Position,217,,,,C,,F,L,nonsynonymous,ALEdb,22.0,conservative
+Substitution,Specific CDS,relA,Nucleotide,Specific Position,1061,,,,G,,H,R,nonsynonymous,ALEdb,29.0,conservative
+Substitution,Specific CDS,nanK,Nucleotide,Specific Position,723,,,,T,,G,G,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,proV,Nucleotide,Specific Position,212,,,,C,,V,A,nonsynonymous,ALEdb,64.0,moderately conservative
+Substitution,Specific CDS,sapA,Nucleotide,Specific Position,720,,,,C,,G,G,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,sapB,Nucleotide,Specific Position,666,,,,C,,G,G,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,sapC,Nucleotide,Specific Position,80,,,,T,,A,V,nonsynonymous,ALEdb,64.0,moderately conservative
+Substitution,Specific CDS,sapA,Nucleotide,Specific Position,73,,,,C,,S,P,nonsynonymous,ALEdb,74.0,moderately conservative
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,155,,,,C,,V,A,nonsynonymous,ALEdb,64.0,moderately conservative
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,258,,,,G,,E,E,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,ybjL,Nucleotide,Specific Position,21,,,,G,,E,E,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,448,,,,A,,G,S,nonsynonymous,ALEdb,56.0,moderately conservative
+Substitution,Specific CDS,proV,Nucleotide,Specific Position,922,,,,T,,R,C,nonsynonymous,ALEdb,180.0,radical
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,972,,,,C,,G,G,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,purT,Nucleotide,Specific Position,839,,,,C,,V,A,nonsynonymous,ALEdb,64.0,moderately conservative
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,1647,,,,G,,P,P,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,sapA,Nucleotide,Specific Position,760,,,,A,,G,S,nonsynonymous,ALEdb,56.0,moderately conservative
+Substitution,Specific CDS,kgtP,Nucleotide,Specific Position,588,,,,G,,G,G,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,relA,Nucleotide,Specific Position,2015,,,,C,,V,A,nonsynonymous,ALEdb,64.0,moderately conservative
+Substitution,Specific CDS,nadR,Nucleotide,Specific Position,157,,,,T,,R,C,nonsynonymous,ALEdb,180.0,radical
+Substitution,Specific CDS,proV,Nucleotide,Specific Position,1131,,,,G,,Q,Q,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,sapF,Nucleotide,Specific Position,328,,,,G,,I,V,nonsynonymous,ALEdb,29.0,conservative
+Substitution,Specific CDS,relA,Nucleotide,Specific Position,2125,,,,G,,T,A,nonsynonymous,ALEdb,58.0,moderately conservative
+Substitution,Specific CDS,sapD,Nucleotide,Specific Position,492,,,,C,,C,C,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,669,,,,C,,R,R,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,kgtP,Nucleotide,Specific Position,164,,,,T,,S,F,nonsynonymous,ALEdb,155.0,radical
+Substitution,Specific CDS,proV,Nucleotide,Specific Position,1096,,,,A,,A,T,nonsynonymous,ALEdb,58.0,moderately conservative
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,444,,,,G,,E,E,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,1115,,,,A,,T,K,nonsynonymous,ALEdb,78.0,moderately conservative
+Substitution,Specific CDS,relA,Nucleotide,Specific Position,305,,,,A,,S,*,truncation,ALEdb,,
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,484,,,,T,,G,C,nonsynonymous,ALEdb,159.0,radical
+Substitution,Specific CDS,rpoA,Nucleotide,Specific Position,261,,,,T,,G,G,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,sapB,Nucleotide,Specific Position,650,,,,A,,A,E,nonsynonymous,ALEdb,107.0,moderately radical
+Substitution,Specific CDS,proV,Nucleotide,Specific Position,896,,,,A,,A,E,nonsynonymous,ALEdb,107.0,moderately radical
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,21,,,,T,,K,N,nonsynonymous,ALEdb,94.0,moderately conservative
+Substitution,Specific CDS,nanK,Nucleotide,Specific Position,188,,,,A,,S,*,truncation,ALEdb,,
+Substitution,Specific CDS,nagC,Nucleotide,Specific Position,1209,,,,T,,L,F,nonsynonymous,ALEdb,22.0,conservative
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,300,,,,T,,V,V,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,purT,Nucleotide,Specific Position,566,,,,A,,A,E,nonsynonymous,ALEdb,107.0,moderately radical
+Deletion,Specific CDS,nadR,Nucleotide,Specific Position,504,,,1,,,,,truncation,ALEdb,,
+Substitution,Specific CDS,sapC,Nucleotide,Specific Position,375,,,,A,,G,G,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,sapD,Nucleotide,Specific Position,433,,,,T,,I,F,nonsynonymous,ALEdb,21.0,conservative
+Substitution,Specific CDS,relA,Nucleotide,Specific Position,1064,,,,T,,W,L,nonsynonymous,ALEdb,61.0,moderately conservative
+Substitution,Specific CDS,purT,Nucleotide,Specific Position,392,,,,A,,T,N,nonsynonymous,ALEdb,65.0,moderately conservative
+Substitution,Specific CDS,rpoA,Nucleotide,Specific Position,594,,,,A,,L,L,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,rob,Nucleotide,Specific Position,581,,,,C,,Q,P,nonsynonymous,ALEdb,76.0,moderately conservative
+Substitution,Specific CDS,sapD,Nucleotide,Specific Position,782,,,,A,,A,E,nonsynonymous,ALEdb,107.0,moderately radical
+Substitution,Specific CDS,rpoA,Nucleotide,Specific Position,790,,,,T,,V,F,nonsynonymous,ALEdb,50.0,conservative
+Substitution,Specific CDS,marC,Nucleotide,Specific Position,225,,,,G,,G,G,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,rob,Nucleotide,Specific Position,784,,,,A,,E,K,nonsynonymous,ALEdb,56.0,moderately conservative
+Substitution,Specific CDS,manY,Nucleotide,Specific Position,199,,,,A,,G,S,nonsynonymous,ALEdb,56.0,moderately conservative
+Substitution,Specific CDS,kgtP,Nucleotide,Specific Position,1115,,,,G,,L,*,truncation,ALEdb,,
+Deletion,Specific CDS,marC,Nucleotide,Specific Position,580,,,11,,,,,truncation,ALEdb,,
+Substitution,Specific CDS,proV,Nucleotide,Specific Position,671,,,,G,,D,G,nonsynonymous,ALEdb,94.0,moderately conservative
+Substitution,Specific CDS,sapC,Nucleotide,Specific Position,619,,,,T,,A,S,nonsynonymous,ALEdb,99.0,moderately conservative
+Substitution,Specific CDS,sapF,Nucleotide,Specific Position,636,,,,G,,G,G,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,sapD,Nucleotide,Specific Position,573,,,,T,,P,P,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,rob,Nucleotide,Specific Position,479,,,,C,,R,P,nonsynonymous,ALEdb,103.0,moderately radical
+Substitution,Specific CDS,sapF,Nucleotide,Specific Position,199,,,,G,,T,A,nonsynonymous,ALEdb,58.0,moderately conservative
+Substitution,Specific CDS,sapC|sapB,Nucleotide,Specific Position,8,,,,G,,Y,C,nonsynonymous,ALEdb,194.0,radical
+Substitution,Specific CDS,nadR,Nucleotide,Specific Position,391,,,,C,,F,L,nonsynonymous,ALEdb,22.0,conservative
+Substitution,Specific CDS,sapB,Nucleotide,Specific Position,463,,,,T,,P,S,nonsynonymous,ALEdb,74.0,moderately conservative
+Substitution,Specific CDS,sapC,Nucleotide,Specific Position,182,,,,G,,Y,C,nonsynonymous,ALEdb,194.0,radical
+Substitution,Specific CDS,kgtP,Nucleotide,Specific Position,135,,,,G,,S,S,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,rpoA,Nucleotide,Specific Position,901,,,,G,,T,A,nonsynonymous,ALEdb,58.0,moderately conservative
+Substitution,Specific CDS,sapC,Nucleotide,Specific Position,682,,,,G,,I,V,nonsynonymous,ALEdb,29.0,conservative
+Substitution,Specific CDS,kgtP,Nucleotide,Specific Position,319,,,,G,,S,A,nonsynonymous,ALEdb,99.0,moderately conservative
+Substitution,Specific CDS,relA,Nucleotide,Specific Position,1456,,,,C,,S,R,nonsynonymous,ALEdb,110.0,moderately radical
+Substitution,Specific CDS,sapA,Nucleotide,Specific Position,794,,,,T,,G,V,nonsynonymous,ALEdb,109.0,moderately radical
+Substitution,Specific CDS,rpoA,Nucleotide,Specific Position,865,,,,A,,L,I,nonsynonymous,ALEdb,5.0,conservative
+Deletion,Specific CDS,nadR,Nucleotide,Specific Position,168,,,1,,,,,truncation,ALEdb,,
+Substitution,Specific CDS,nadR,Nucleotide,Specific Position,317,,,,C,,R,P,nonsynonymous,ALEdb,103.0,moderately radical
+Substitution,Specific CDS,nadR,Nucleotide,Specific Position,1006,,,,T,,E,*,truncation,ALEdb,,
+Substitution,Specific CDS,nadR,Nucleotide,Specific Position,929,,,,T,,T,I,nonsynonymous,ALEdb,89.0,moderately conservative
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,912,,,,A,,D,E,nonsynonymous,ALEdb,45.0,conservative
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,906,,,,G,,I,M,nonsynonymous,ALEdb,10.0,conservative
+Deletion,Specific CDS,metJ,Nucleotide,Specific Position,311,,,1,,,,,truncation,ALEdb,,
+Substitution,Specific CDS,rpoA,Nucleotide,Specific Position,854,,,,T,,T,I,nonsynonymous,ALEdb,89.0,moderately conservative
+Deletion,Specific CDS,rpoA,Nucleotide,Specific Position,940,,,20,,,,,truncation,ALEdb,,
+Substitution,Specific CDS,nagC,Nucleotide,Specific Position,217,,,,T,,G,C,nonsynonymous,ALEdb,159.0,radical
+Substitution,Specific CDS,rpoA,Nucleotide,Specific Position,805,,,,C,,C,R,nonsynonymous,ALEdb,180.0,radical
+Substitution,Specific CDS,nagC,Nucleotide,Specific Position,83,,,,G,,D,G,nonsynonymous,ALEdb,94.0,moderately conservative
+Substitution,Specific CDS,sapB,Nucleotide,Specific Position,470,,,,T,,T,I,nonsynonymous,ALEdb,89.0,moderately conservative
+Substitution,Specific CDS,sapB,Nucleotide,Specific Position,468,,,,A,,I,I,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,sapB,Nucleotide,Specific Position,466,,,,G,,I,V,nonsynonymous,ALEdb,29.0,conservative
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,791,,,,C,,I,T,nonsynonymous,ALEdb,89.0,moderately conservative
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,748,,,,T,,E,*,truncation,ALEdb,,
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,260,,,,T,,R,L,nonsynonymous,ALEdb,102.0,moderately radical
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,251,,,,T,,S,I,nonsynonymous,ALEdb,142.0,moderately radical
+Insertion,Specific CDS,pykF,Nucleotide,Specific Position,760,,,,A,,,,truncation,ALEdb,,
+Substitution,Specific CDS,sapB,Nucleotide,Specific Position,436,,,,T,,R,C,nonsynonymous,ALEdb,180.0,radical
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,967,,,,T,,E,*,truncation,ALEdb,,
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,305,,,,T,,R,L,nonsynonymous,ALEdb,102.0,moderately radical
+Substitution,Specific CDS,sapD,Nucleotide,Specific Position,703,,,,T,,G,C,nonsynonymous,ALEdb,159.0,radical
+Substitution,Specific CDS,sapD,Nucleotide,Specific Position,302,,,,A,,C,Y,nonsynonymous,ALEdb,194.0,radical
+Substitution,Specific CDS,sapA,Nucleotide,Specific Position,41,,,,G,,L,R,nonsynonymous,ALEdb,102.0,moderately radical
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,1129,,,,A,,A,T,nonsynonymous,ALEdb,58.0,moderately conservative
+Substitution,Specific CDS,purT,Nucleotide,Specific Position,14,,,,A,,G,D,nonsynonymous,ALEdb,94.0,moderately conservative
+Deletion,Specific CDS,relA,Nucleotide,Specific Position,2161,,,12,,,,,other,ALEdb,,
+Substitution,Specific CDS,rpoA,Nucleotide,Specific Position,777,,,,G,,D,E,nonsynonymous,ALEdb,45.0,conservative
+Substitution,Specific CDS,nadR,Nucleotide,Specific Position,429,,,,T,,N,N,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,nagC,Nucleotide,Specific Position,725,,,,C,,V,A,nonsynonymous,ALEdb,64.0,moderately conservative
+Deletion,Specific CDS,relA,Nucleotide,Specific Position,2118,,,1,,,,,truncation,ALEdb,,
+Deletion,Specific CDS,relA,Nucleotide,Specific Position,2117,,,1,,,,,truncation,ALEdb,,
+Substitution,Specific CDS,sapB,Nucleotide,Specific Position,407,,,,G,,L,R,nonsynonymous,ALEdb,102.0,moderately radical
+Substitution,Specific CDS,sapA,Nucleotide,Specific Position,259,,,,A,,W,R,nonsynonymous,ALEdb,101.0,moderately radical
+Substitution,Specific CDS,relA,Nucleotide,Specific Position,668,,,,C,,L,P,nonsynonymous,ALEdb,98.0,moderately conservative
+Substitution,Specific CDS,relA,Nucleotide,Specific Position,653,,,,C,,L,P,nonsynonymous,ALEdb,98.0,moderately conservative
+Deletion,Specific CDS,relA,Nucleotide,Specific Position,146,,,1,,,,,truncation,ALEdb,,
+Substitution,Specific CDS,rpoA,Nucleotide,Specific Position,943,,,,A,,G,S,nonsynonymous,ALEdb,56.0,moderately conservative
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,137,,,,A,,G,D,nonsynonymous,ALEdb,94.0,moderately conservative
+Substitution,Specific CDS,purT,Nucleotide,Specific Position,1097,,,,G,,V,G,nonsynonymous,ALEdb,109.0,moderately radical
+Substitution,Specific CDS,purT,Nucleotide,Specific Position,343,,,,T,,E,*,truncation,ALEdb,,
+Substitution,Specific CDS,rpoA,Nucleotide,Specific Position,838,,,,T,,D,Y,nonsynonymous,ALEdb,160.0,radical
+Substitution,Specific CDS,rpoA,Nucleotide,Specific Position,87,,,,A,,E,E,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,206,,,,A,,G,D,nonsynonymous,ALEdb,94.0,moderately conservative
+Substitution,Specific CDS,purT,Nucleotide,Specific Position,841,,,,C,,S,P,nonsynonymous,ALEdb,74.0,moderately conservative
+Substitution,Specific CDS,purT,Nucleotide,Specific Position,848,,,,A,,R,H,nonsynonymous,ALEdb,29.0,conservative
+Substitution,Specific CDS,relA,Nucleotide,Specific Position,767,,,,C,,I,T,nonsynonymous,ALEdb,89.0,moderately conservative
+Substitution,Specific CDS,rpoA,Nucleotide,Specific Position,914,,,,G,,D,G,nonsynonymous,ALEdb,94.0,moderately conservative
+Substitution,Specific CDS,metJ,Nucleotide,Specific Position,80,,,,C,,V,A,nonsynonymous,ALEdb,64.0,moderately conservative
+Substitution,Specific CDS,nagC,Nucleotide,Specific Position,21,,,,C,,A,A,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,893,,,,C,,V,A,nonsynonymous,ALEdb,64.0,moderately conservative
+Substitution,Specific CDS,relA,Nucleotide,Specific Position,1295,,,,G,,H,R,nonsynonymous,ALEdb,29.0,conservative
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,677,,,,G,,E,G,nonsynonymous,ALEdb,98.0,moderately conservative
+Substitution,Specific CDS,metJ,Nucleotide,Specific Position,149,,,,A,,R,H,nonsynonymous,ALEdb,29.0,conservative
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,920,,,,G,,D,G,nonsynonymous,ALEdb,94.0,moderately conservative
+Substitution,Specific CDS,relA,Nucleotide,Specific Position,1018,,,,C,,T,P,nonsynonymous,ALEdb,38.0,conservative
+Substitution,Specific CDS,relA,Nucleotide,Specific Position,617,,,,C,,L,P,nonsynonymous,ALEdb,98.0,moderately conservative
+Substitution,Specific CDS,relA,Nucleotide,Specific Position,456,,,,G,,K,K,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,716,,,,G,,H,R,nonsynonymous,ALEdb,29.0,conservative
+Substitution,Specific CDS,metJ,Nucleotide,Specific Position,318,,,,C,,*,Y,other,ALEdb,,
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,680,,,,C,,L,P,nonsynonymous,ALEdb,98.0,moderately conservative
+Substitution,Specific CDS,rpoA,Nucleotide,Specific Position,836,,,,T,,G,V,nonsynonymous,ALEdb,109.0,moderately radical
+Substitution,Specific CDS,proV,Nucleotide,Specific Position,496,,,,C,,S,P,nonsynonymous,ALEdb,74.0,moderately conservative
+Substitution,Specific CDS,nadR,Nucleotide,Specific Position,621,,,,T,,S,S,synonymous,ALEdb,0.0,conservative
+Deletion,Specific CDS,nagC,Nucleotide,Specific Position,91,,,1,,,,,truncation,ALEdb,,
+Substitution,Specific CDS,sapA,Nucleotide,Specific Position,971,,,,G,,N,S,nonsynonymous,ALEdb,46.0,conservative
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,1012,,,,A,,V,M,nonsynonymous,ALEdb,21.0,conservative
+Substitution,Specific CDS,purT,Nucleotide,Specific Position,494,,,,G,,Q,R,nonsynonymous,ALEdb,43.0,conservative
+Substitution,Specific CDS,nagC,Nucleotide,Specific Position,847,,,,G,,K,E,nonsynonymous,ALEdb,56.0,moderately conservative
+Substitution,Specific CDS,nanK,Nucleotide,Specific Position,382,,,,T,,T,S,nonsynonymous,ALEdb,58.0,moderately conservative
+Substitution,Specific CDS,metJ,Nucleotide,Specific Position,16,,,,T,,G,C,nonsynonymous,ALEdb,159.0,radical
+Substitution,Specific CDS,marC,Nucleotide,Specific Position,635,,,,A,,G,D,nonsynonymous,ALEdb,94.0,moderately conservative
+Substitution,Specific CDS,marC,Nucleotide,Specific Position,464,,,,C,,V,A,nonsynonymous,ALEdb,64.0,moderately conservative
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,414,,,,A,,P,P,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,830,,,,C,,V,A,nonsynonymous,ALEdb,64.0,moderately conservative
+Substitution,Specific CDS,relA,Nucleotide,Specific Position,116,,,,A,,W,*,truncation,ALEdb,,
+Substitution,Specific CDS,metJ,Nucleotide,Specific Position,227,,,,C,,D,A,nonsynonymous,ALEdb,126.0,moderately radical
+Substitution,Specific CDS,metJ,Nucleotide,Specific Position,35,,,,G,,Y,C,nonsynonymous,ALEdb,194.0,radical
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,637,,,,C,,I,L,nonsynonymous,ALEdb,5.0,conservative
+Substitution,Specific CDS,metJ,Nucleotide,Specific Position,17,,,,A,,G,D,nonsynonymous,ALEdb,94.0,moderately conservative
+Substitution,Specific CDS,purT,Nucleotide,Specific Position,113,,,,G,,V,G,nonsynonymous,ALEdb,109.0,moderately radical
+Deletion,Specific CDS,relA,Nucleotide,Specific Position,1025,,,10,,,,,truncation,ALEdb,,
+Substitution,Specific CDS,metJ,Nucleotide,Specific Position,146,,,,G,,L,R,nonsynonymous,ALEdb,102.0,moderately radical
+Substitution,Specific CDS,purT,Nucleotide,Specific Position,788,,,,G,,L,W,nonsynonymous,ALEdb,61.0,moderately conservative
+Substitution,Specific CDS,metJ,Nucleotide,Specific Position,10,,,,G,,W,G,nonsynonymous,ALEdb,184.0,radical
+Substitution,Specific CDS,relA,Nucleotide,Specific Position,11,,,,A,,V,E,nonsynonymous,ALEdb,121.0,moderately radical
+Substitution,Specific CDS,metJ,Nucleotide,Specific Position,184,,,,C,,F,L,nonsynonymous,ALEdb,22.0,conservative
+Deletion,Specific CDS,ybjL,Nucleotide,Specific Position,251,,,1,,,,,truncation,ALEdb,,
+Substitution,Specific CDS,kgtP,Nucleotide,Specific Position,134,,,,T,,S,L,nonsynonymous,ALEdb,145.0,moderately radical
+Substitution,Specific CDS,kgtP,Nucleotide,Specific Position,1157,,,,A,,G,D,nonsynonymous,ALEdb,94.0,moderately conservative
+Substitution,Specific CDS,kgtP,Nucleotide,Specific Position,1171,,,,G,,Y,D,nonsynonymous,ALEdb,160.0,radical
+Substitution,Specific CDS,proV,Nucleotide,Specific Position,860,,,,G,,L,*,truncation,ALEdb,,
+Substitution,Specific CDS,mreB,Nucleotide,Specific Position,410,,,,C,,E,A,nonsynonymous,ALEdb,107.0,moderately radical
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,2108,,,,C,,*,S,other,ALEdb,,
+Substitution,Specific CDS,ybjL,Nucleotide,Specific Position,1340,,,,G,,F,C,nonsynonymous,ALEdb,205.0,radical
+Substitution,Specific CDS,ybjL,Nucleotide,Specific Position,872,,,,C,,E,A,nonsynonymous,ALEdb,107.0,moderately radical
+Substitution,Specific CDS,kgtP,Nucleotide,Specific Position,592,,,,A,,R,S,nonsynonymous,ALEdb,110.0,moderately radical
+Deletion,Specific CDS,proV,Nucleotide,Specific Position,21,,,7,,,,,truncation,ALEdb,,
+Substitution,Specific CDS,proV,Nucleotide,Specific Position,679,,,,T,,E,*,truncation,ALEdb,,
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,1301,,,,T,,S,L,nonsynonymous,ALEdb,145.0,moderately radical
+Substitution,Specific CDS,nagC,Nucleotide,Specific Position,667,,,,T,,G,*,truncation,ALEdb,,
+Substitution,Specific CDS,kgtP,Nucleotide,Specific Position,418,,,,T,,G,*,truncation,ALEdb,,
+Deletion,Specific CDS,kgtP,Nucleotide,Specific Position,104,,,1,,,,,truncation,ALEdb,,
+Substitution,Specific CDS,kgtP,Nucleotide,Specific Position,1159,,,,A,,G,S,nonsynonymous,ALEdb,56.0,moderately conservative
+Substitution,Specific CDS,sapC,Nucleotide,Specific Position,235,,,,T,,G,W,nonsynonymous,ALEdb,184.0,radical
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,311,,,,T,,P,L,nonsynonymous,ALEdb,98.0,moderately conservative
+Substitution,Specific CDS,nadR,Nucleotide,Specific Position,644,,,,T,,P,L,nonsynonymous,ALEdb,98.0,moderately conservative
+Substitution,Specific CDS,sapF,Nucleotide,Specific Position,472,,,,T,,R,C,nonsynonymous,ALEdb,180.0,radical
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,335,,,,T,,A,V,nonsynonymous,ALEdb,64.0,moderately conservative
+Substitution,Specific CDS,manY,Nucleotide,Specific Position,416,,,,C,,I,T,nonsynonymous,ALEdb,89.0,moderately conservative
+Substitution,Specific CDS,rpoA,Nucleotide,Specific Position,106,,,,C,,G,R,nonsynonymous,ALEdb,125.0,moderately radical
+Substitution,Specific CDS,nadR,Nucleotide,Specific Position,253,,,,T,,Q,*,truncation,ALEdb,,
+Deletion,Specific CDS,nadR,Nucleotide,Specific Position,900,,,1,,,,,truncation,ALEdb,,
+Deletion,Specific CDS,nadR,Nucleotide,Specific Position,918,,,1,,,,,truncation,ALEdb,,
+Insertion,Specific CDS,rho,Nucleotide,Specific Position,302,,,,GAT,,,,other,ALEdb,,
+Deletion,Specific CDS,kgtP,Nucleotide,Specific Position,75,,,1,,,,,truncation,ALEdb,,
+Insertion,Specific CDS,proV,Nucleotide,Specific Position,718,,,,T,,,,truncation,ALEdb,,
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,1265,,,,C,,V,A,nonsynonymous,ALEdb,64.0,moderately conservative
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,1352,,,,A,,A,D,nonsynonymous,ALEdb,126.0,moderately radical
+Substitution,Specific CDS,kgtP,Nucleotide,Specific Position,776,,,,G,,F,C,nonsynonymous,ALEdb,205.0,radical
+Insertion,Specific CDS,kgtP,Nucleotide,Specific Position,229,,,,C,,,,truncation,ALEdb,,
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,1360,,,,C,,N,H,nonsynonymous,ALEdb,68.0,moderately conservative
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,1371,,,,T,,W,C,nonsynonymous,ALEdb,215.0,radical
+Substitution,Specific CDS,kgtP,Nucleotide,Specific Position,1136,,,,T,,A,V,nonsynonymous,ALEdb,64.0,moderately conservative
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,1352,,,,T,,A,V,nonsynonymous,ALEdb,64.0,moderately conservative
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,1738,,,,T,,D,Y,nonsynonymous,ALEdb,160.0,radical
+Deletion,Specific CDS,kgtP,Nucleotide,Specific Position,372,,,1,,,,,truncation,ALEdb,,
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,707,,,,T,,R,L,nonsynonymous,ALEdb,102.0,moderately radical
+Insertion,Specific CDS,kgtP,Nucleotide,Specific Position,1015,,,,AAAAGC,,,,other,ALEdb,,
+Substitution,Specific CDS,kgtP,Nucleotide,Specific Position,377,,,,G,,L,*,truncation,ALEdb,,
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,706,,,,A,,R,S,nonsynonymous,ALEdb,110.0,moderately radical
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,740,,,,A,,M,K,nonsynonymous,ALEdb,95.0,moderately conservative
+Substitution,Specific CDS,kgtP,Nucleotide,Specific Position,899,,,,T,,G,V,nonsynonymous,ALEdb,109.0,moderately radical
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,1325,,,,T,,T,I,nonsynonymous,ALEdb,89.0,moderately conservative
+Deletion,Specific CDS,spoT,Nucleotide,Specific Position,1802,,,6,,,,,other,ALEdb,,
+Substitution,Specific CDS,nagC,Nucleotide,Specific Position,199,,,,T,,Q,*,truncation,ALEdb,,
+Deletion,Specific CDS,kgtP,Nucleotide,Specific Position,530,,,9,,,,,other,ALEdb,,
+Substitution,Specific CDS,kgtP,Nucleotide,Specific Position,515,,,,T,,G,V,nonsynonymous,ALEdb,109.0,moderately radical
+Deletion,Specific CDS,proV,Nucleotide,Specific Position,112,,,1,,,,,truncation,ALEdb,,
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,626,,,,A,,R,H,nonsynonymous,ALEdb,29.0,conservative
+Substitution,Specific CDS,nagC,Nucleotide,Specific Position,190,,,,T,,E,*,truncation,ALEdb,,
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,1462,,,,T,,R,C,nonsynonymous,ALEdb,180.0,radical
+Substitution,Specific CDS,sapD,Nucleotide,Specific Position,501,,,,T,,V,V,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,mreB,Nucleotide,Specific Position,122,,,,G,,I,S,nonsynonymous,ALEdb,142.0,moderately radical
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,1588,,,,T,,G,C,nonsynonymous,ALEdb,159.0,radical
+Substitution,Specific CDS,nadR,Nucleotide,Specific Position,932,,,,C,,D,A,nonsynonymous,ALEdb,126.0,moderately radical
+Substitution,Specific CDS,nagC,Nucleotide,Specific Position,615,,,,G,,Y,*,truncation,ALEdb,,
+Substitution,Specific CDS,sapB,Nucleotide,Specific Position,784,,,,T,,V,F,nonsynonymous,ALEdb,50.0,conservative
+Substitution,Specific CDS,rpoA,Nucleotide,Specific Position,818,,,,T,,E,V,nonsynonymous,ALEdb,121.0,moderately radical
+Substitution,Specific CDS,rpoA,Nucleotide,Specific Position,652,,,,A,,R,S,nonsynonymous,ALEdb,110.0,moderately radical
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,925,,,,A,,V,M,nonsynonymous,ALEdb,21.0,conservative
+Substitution,Specific CDS,rpoA,Nucleotide,Specific Position,101,,,,T,,G,V,nonsynonymous,ALEdb,109.0,moderately radical
+Substitution,Specific CDS,sapA,Nucleotide,Specific Position,794,,,,A,,G,E,nonsynonymous,ALEdb,98.0,moderately conservative
+Substitution,Specific CDS,rpoA,Nucleotide,Specific Position,107,,,,A,,G,D,nonsynonymous,ALEdb,94.0,moderately conservative
+Substitution,Specific CDS,rpoA,Nucleotide,Specific Position,818,,,,G,,E,G,nonsynonymous,ALEdb,98.0,moderately conservative
+Insertion,Specific CDS,rpoA,Nucleotide,Specific Position,93,,,,CGCTCT,,,,other,ALEdb,,
+Substitution,Specific CDS,sapB,Nucleotide,Specific Position,710,,,,A,,A,E,nonsynonymous,ALEdb,107.0,moderately radical
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,940,,,,C,,E,Q,nonsynonymous,ALEdb,29.0,conservative
+Substitution,Specific CDS,sapD,Nucleotide,Specific Position,703,,,,A,,G,S,nonsynonymous,ALEdb,56.0,moderately conservative
+Substitution,Specific CDS,sapA,Nucleotide,Specific Position,440,,,,C,,Y,S,nonsynonymous,ALEdb,144.0,moderately radical
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,386,,,,C,,L,P,nonsynonymous,ALEdb,98.0,moderately conservative
+Substitution,Specific CDS,manY,Nucleotide,Specific Position,122,,,,G,,I,S,nonsynonymous,ALEdb,142.0,moderately radical
+Substitution,Specific CDS,sapB,Nucleotide,Specific Position,785,,,,G,,V,G,nonsynonymous,ALEdb,109.0,moderately radical
+Insertion,Specific CDS,pykF,Nucleotide,Specific Position,1197,,,,TG,,,,truncation,ALEdb,,
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,520,,,,T,,D,Y,nonsynonymous,ALEdb,160.0,radical
+Insertion,Specific CDS,pykF,Nucleotide,Specific Position,798,,,,A,,,,truncation,ALEdb,,
+Substitution,Specific CDS,sapC,Nucleotide,Specific Position,205,,,,C,,S,P,nonsynonymous,ALEdb,74.0,moderately conservative
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,737,,,,G,,D,G,nonsynonymous,ALEdb,94.0,moderately conservative
+Substitution,Specific CDS,rob,Nucleotide,Specific Position,197,,,,G,,L,R,nonsynonymous,ALEdb,102.0,moderately radical
+Insertion,Specific CDS,rob,Nucleotide,Specific Position,115,,,,G,,,,truncation,ALEdb,,
+Substitution,Specific CDS,marC,Nucleotide,Specific Position,211,,,,T,,I,F,nonsynonymous,ALEdb,21.0,conservative
+Insertion,Specific CDS,rob,Nucleotide,Specific Position,416,,,,A,,,,truncation,ALEdb,,
+Deletion,Specific CDS,marC,Nucleotide,Specific Position,628,,,1,,,,,truncation,ALEdb,,
+Substitution,Specific CDS,sapA,Nucleotide,Specific Position,439,,,,C,,Y,H,nonsynonymous,ALEdb,83.0,moderately conservative
+Substitution,Specific CDS,rob,Nucleotide,Specific Position,152,,,,A,,G,D,nonsynonymous,ALEdb,94.0,moderately conservative
+Substitution,Specific CDS,rob,Nucleotide,Specific Position,68,,,,A,,S,*,truncation,ALEdb,,
+Substitution,Specific CDS,rob,Nucleotide,Specific Position,108,,,,A,,W,*,truncation,ALEdb,,
+Insertion,Specific CDS,marC,Nucleotide,Specific Position,530,,,,C,,,,truncation,ALEdb,,
+Substitution,Specific CDS,rob,Nucleotide,Specific Position,263,,,,G,,F,C,nonsynonymous,ALEdb,205.0,radical
+Substitution,Specific CDS,sapA,Nucleotide,Specific Position,814,,,,A,,W,R,nonsynonymous,ALEdb,101.0,moderately radical
+Substitution,Specific CDS,mreB,Nucleotide,Specific Position,415,,,,G,,F,V,nonsynonymous,ALEdb,50.0,conservative
+Substitution,Specific CDS,sapD,Nucleotide,Specific Position,567,,,,T,,M,I,nonsynonymous,ALEdb,10.0,conservative
+Substitution,Specific CDS,mreB,Nucleotide,Specific Position,788,,,,T,,P,L,nonsynonymous,ALEdb,98.0,moderately conservative
+Substitution,Specific CDS,mreB,Nucleotide,Specific Position,160,,,,A,,A,T,nonsynonymous,ALEdb,58.0,moderately conservative
+Substitution,Specific CDS,rpoA,Nucleotide,Specific Position,208,,,,G,,T,A,nonsynonymous,ALEdb,58.0,moderately conservative
+Substitution,Specific CDS,mreB,Nucleotide,Specific Position,102,,,,G,,N,K,nonsynonymous,ALEdb,94.0,moderately conservative
+Insertion,Specific CDS,proV,Nucleotide,Specific Position,132,,,,T,,,,truncation,ALEdb,,
+Substitution,Specific CDS,mreB,Nucleotide,Specific Position,635,,,,C,,E,A,nonsynonymous,ALEdb,107.0,moderately radical
+Insertion,Specific CDS,proV,Nucleotide,Specific Position,317,,,,T,,,,truncation,ALEdb,,
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,73,,,,A,,D,N,nonsynonymous,ALEdb,23.0,conservative
+Substitution,Specific CDS,mreB,Nucleotide,Specific Position,72,,,,G,,I,M,nonsynonymous,ALEdb,10.0,conservative
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,1400,,,,T,,R,L,nonsynonymous,ALEdb,102.0,moderately radical
+Substitution,Specific CDS,mreB,Nucleotide,Specific Position,277,,,,A,,H,N,nonsynonymous,ALEdb,68.0,moderately conservative
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,1400,,,,A,,R,H,nonsynonymous,ALEdb,29.0,conservative
+Substitution,Specific CDS,mreB,Nucleotide,Specific Position,893,,,,T,,A,V,nonsynonymous,ALEdb,64.0,moderately conservative
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,1412,,,,A,,R,H,nonsynonymous,ALEdb,29.0,conservative
+Deletion,Specific CDS,nagC,Nucleotide,Specific Position,764,,,47,,,,,truncation,ALEdb,,
+Deletion,Specific CDS,nagC,Nucleotide,Specific Position,362,,,1,,,,,truncation,ALEdb,,
+Substitution,Specific CDS,sapD,Nucleotide,Specific Position,558,,,,A,,T,T,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,relA,Nucleotide,Specific Position,540,,,,T,,N,N,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,relA,Nucleotide,Specific Position,534,,,,C,,C,C,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,234,,,,C,,T,T,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,1188,,,,A,,R,R,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,rob,Nucleotide,Specific Position,341,,,,C,,I,T,nonsynonymous,ALEdb,89.0,moderately conservative
+Substitution,Specific CDS,rob,Nucleotide,Specific Position,733,,,,A,,G,R,nonsynonymous,ALEdb,125.0,moderately radical
+Substitution,Specific CDS,rpoA,Nucleotide,Specific Position,107,,,,T,,G,V,nonsynonymous,ALEdb,109.0,moderately radical
+Substitution,Specific CDS,rpoA,Nucleotide,Specific Position,791,,,,C,,V,A,nonsynonymous,ALEdb,64.0,moderately conservative
+Substitution,Specific CDS,rpoA,Nucleotide,Specific Position,566,,,,T,,A,V,nonsynonymous,ALEdb,64.0,moderately conservative
+Substitution,Specific CDS,sapC,Nucleotide,Specific Position,38,,,,G,,P,R,nonsynonymous,ALEdb,103.0,moderately radical
+Substitution,Specific CDS,sapB,Nucleotide,Specific Position,381,,,,A,,A,A,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,354,,,,C,,S,S,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,1268,,,,A,,I,N,nonsynonymous,ALEdb,149.0,moderately radical
+Substitution,Specific CDS,purT,Nucleotide,Specific Position,177,,,,C,,I,I,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,mreB,Nucleotide,Specific Position,863,,,,G,,E,G,nonsynonymous,ALEdb,98.0,moderately conservative
+Substitution,Specific CDS,manY,Nucleotide,Specific Position,709,,,,T,,L,F,nonsynonymous,ALEdb,22.0,conservative
+Substitution,Specific CDS,metJ,Nucleotide,Specific Position,132,,,,A,,R,R,synonymous,ALEdb,0.0,conservative
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,790,,,,T,,I,F,nonsynonymous,ALEdb,21.0,conservative
+Deletion,Specific CDS,pykF,Nucleotide,Specific Position,275,,,1,,,,,truncation,ALEdb,,
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,886,,,,T,,R,C,nonsynonymous,ALEdb,180.0,radical
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,446,,,,A,,R,H,nonsynonymous,ALEdb,29.0,conservative
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,1033,,,,T,,L,F,nonsynonymous,ALEdb,22.0,conservative
+Substitution,Specific CDS,rho,Nucleotide,Specific Position,988,,,,T,,V,F,nonsynonymous,ALEdb,50.0,conservative
+Deletion,Specific CDS,relA,Nucleotide,Specific Position,567,,,11,,,,,truncation,ALEdb,,
+Deletion,Specific CDS,relA,Nucleotide,Specific Position,319,,,1,,,,,truncation,ALEdb,,
+Substitution,Specific CDS,nagC,Nucleotide,Specific Position,233,,,,A,,S,Y,nonsynonymous,ALEdb,144.0,moderately radical
+Substitution,Specific CDS,spoT,Nucleotide,Specific Position,1839,,,,A,,M,I,nonsynonymous,ALEdb,10.0,conservative
+Substitution,Specific CDS,nagC,Nucleotide,Specific Position,221,,,,A,,R,H,nonsynonymous,ALEdb,29.0,conservative
+Substitution,Specific CDS,nagC,Nucleotide,Specific Position,647,,,,G,,I,S,nonsynonymous,ALEdb,142.0,moderately radical
+Substitution,Specific CDS,pykF,Nucleotide,Specific Position,1099,,,,T,,E,*,truncation,ALEdb,,
+Insertion,Specific CDS,nagC,Nucleotide,Specific Position,217,,,,T,,,,truncation,ALEdb,,
+Substitution,Specific CDS,sapD,Nucleotide,Specific Position,192,,,,A,,T,T,synonymous,ALEdb,0.0,conservative
+Insertion,Specific CDS,pykF,Nucleotide,Specific Position,1385,,,,TAATAGTGA,,,,other,ALEdb,,
+Insertion,Specific CDS,proV,Nucleotide,Specific Position,5,,,,TAATAGTGA,,,,other,ALEdb,,
+Insertion,Specific CDS,proV,Nucleotide,Specific Position,860,,,,TAATAGTGA,,,,other,ALEdb,,
+Insertion,Specific CDS,ybjL,Nucleotide,Specific Position,328,,,,TAATAGTGA,,,,truncation,ALEdb,,
+Insertion,Specific CDS,pykF,Nucleotide,Specific Position,58,,,,TAATAGTGA,,,,truncation,ALEdb,,
+Insertion,Specific CDS,metJ,Nucleotide,Specific Position,100,,,,TAATAGTGA,,,,truncation,ALEdb,,
+Insertion,Specific CDS,purT,Nucleotide,Specific Position,619,,,,TAATAGTGA,,,,truncation,ALEdb,,
+Insertion,Specific CDS,kgtP,Nucleotide,Specific Position,532,,,,TAATAGTGA,,,,truncation,ALEdb,,
+Insertion,Specific CDS,nagC,Nucleotide,Specific Position,1058,,,,TAATAGTGA,,,,other,ALEdb,,
+Insertion,Specific CDS,nagC,Nucleotide,Specific Position,964,,,,TAATAGTGA,,,,truncation,ALEdb,,
+Insertion,Specific CDS,ybjL,Nucleotide,Specific Position,283,,,,TAATAGTGA,,,,truncation,ALEdb,,
+Insertion,Specific CDS,ybjL,Nucleotide,Specific Position,324,,,,TAATAGTGA,,,,other,ALEdb,,
+Insertion,Specific CDS,ybjL,Nucleotide,Specific Position,277,,,,TAATAGTGA,,,,truncation,ALEdb,,
+Insertion,Specific CDS,nagC,Nucleotide,Specific Position,973,,,,TAATAGTGA,,,,truncation,ALEdb,,
+Insertion,Specific CDS,nagC,Nucleotide,Specific Position,399,,,,TAATAGTGA,,,,other,ALEdb,,
+Insertion,Specific CDS,nagC,Nucleotide,Specific Position,907,,,,TAATAGTGA,,,,truncation,ALEdb,,
+Insertion,Specific CDS,proV,Nucleotide,Specific Position,22,,,,TAATAGTGA,,,,truncation,ALEdb,,
+Insertion,Specific CDS,proV,Nucleotide,Specific Position,1018,,,,TAATAGTGA,,,,truncation,ALEdb,,
+Insertion,Specific CDS,nagC,Nucleotide,Specific Position,985,,,,TAATAGTGA,,,,truncation,ALEdb,,
+Insertion,Specific CDS,marC,Nucleotide,Specific Position,239,,,,TAATAGTGA,,,,other,ALEdb,,
+Insertion,Specific CDS,marC,Nucleotide,Specific Position,56,,,,TAATAGTGA,,,,other,ALEdb,,
+Insertion,Specific CDS,nagC,Nucleotide,Specific Position,990,,,,TAATAGTGA,,,,other,ALEdb,,
+Insertion,Specific CDS,proV,Nucleotide,Specific Position,18,,,,TAATAGTGA,,,,other,ALEdb,,
+Insertion,Specific CDS,purT,Nucleotide,Specific Position,18,,,,TAATAGTGA,,,,other,ALEdb,,
+Insertion,Specific CDS,nanK,Nucleotide,Specific Position,18,,,,TAATAGTGA,,,,other,ALEdb,,
+Insertion,Specific CDS,pykF,Nucleotide,Specific Position,18,,,,TAATAGTGA,,,,other,ALEdb,,
+Insertion,Specific CDS,relA,Nucleotide,Specific Position,18,,,,TAATAGTGA,,,,other,ALEdb,,
+Insertion,Specific CDS,nadR,Nucleotide,Specific Position,137,,,,TAATAGTGA,,,,other,ALEdb,,
+Insertion,Specific CDS,marC,Nucleotide,Specific Position,18,,,,TAATAGTGA,,,,other,ALEdb,,

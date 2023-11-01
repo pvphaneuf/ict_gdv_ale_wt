@@ -1,0 +1,10 @@
+,INSCRIPTA_EditType,INSCRIPTA_TargetType,INSCRIPTA_TargetName,INSCRIPTA_CoordinateType,INSCRIPTA_PositionType,INSCRIPTA_PositionValue,INSCRIPTA_SaturationReplacementType,INSCRIPTA_Control,INSCRIPTA_NumberOfCoordinatesToDelete,INSCRIPTA_InsertionSequence,INSCRIPTA_Comment
+978,Substitution,Specific CDS,sapD,Nucleotide,Specific Position,878,,,,A,
+1038,Substitution,Specific CDS,purT,Nucleotide,Specific Position,113,,,,G,
+2092,Deletion,Specific CDS,sapD,Nucleotide,Specific Position,882,,,1,,
+2537,Insertion,Specific CDS,purT,Nucleotide,Specific Position,18,,,,TAATAGTGA,
+2581,Substitution,Specific CDS,relA,Nucleotide,Specific Position,2015,,,,C,
+2644,Substitution,Specific CDS,relA,Nucleotide,Specific Position,145,,,,T,
+2653,Substitution,Specific CDS,mreB,Nucleotide,Specific Position,812,,,,G,
+3424,Deletion,Specific CDS,relA,Nucleotide,Specific Position,146,,,1,,
+4172,Substitution,Specific CDS,kgtP,Nucleotide,Specific Position,1115,,,,G,

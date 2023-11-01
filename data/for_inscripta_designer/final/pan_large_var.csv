@@ -1,0 +1,5 @@
+,INSCRIPTA_EditType,INSCRIPTA_TargetType,INSCRIPTA_TargetName,INSCRIPTA_CoordinateType,INSCRIPTA_PositionType,INSCRIPTA_PositionValue,INSCRIPTA_SaturationReplacementType,INSCRIPTA_Control,INSCRIPTA_NumberOfCoordinatesToDelete,INSCRIPTA_InsertionSequence,INSCRIPTA_Comment
+1491,Substitution,Specific CDS,rob,Amino Acid,Specific Position,267,,,,EDESRDQET,
+3461,Substitution,Specific CDS,ybjL,Amino Acid,Specific Position,166,,,,NLFNRSGEFDCWCAL,
+3464,Substitution,Specific CDS,rob,Amino Acid,Specific Position,267,,,,EDESRDQAT,
+3633,Substitution,Specific CDS,kgtP,Amino Acid,Specific Position,8,,,,ERGAPELA,
